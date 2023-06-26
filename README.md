@@ -1,1 +1,1 @@
-# vue2-admin-starter
+# admin-starter
